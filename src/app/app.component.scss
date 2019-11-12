@@ -9,3 +9,13 @@
   }
 }
 
+::ng-deep .login-page {
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
