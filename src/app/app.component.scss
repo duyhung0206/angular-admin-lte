@@ -1,0 +1,11 @@
+::ng-deep div.content-wrapper {
+  min-height: unset !important;
+  .content {
+    padding-top: 0px;
+    height: calc(100vh - 91px);
+    overflow: overlay;
+    overflow-x: hidden;
+    min-height: unset !important;
+  }
+}
+
